@@ -1,4 +1,3 @@
-import "./App.css";
 import Home1 from "./Components/Home/Home1";
 import MouseMove1 from "./Components/MouseMove1/MouseMove1";
 import Navber from "./Components/Sheard/Navber/Navber";
